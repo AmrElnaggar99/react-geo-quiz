@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-geo-quiz/static/css/main.bdb9da3d.chunk.css",
+    "main.js": "/react-geo-quiz/static/js/main.615ba8ec.chunk.js",
+    "main.js.map": "/react-geo-quiz/static/js/main.615ba8ec.chunk.js.map",
+    "runtime-main.js": "/react-geo-quiz/static/js/runtime-main.144310f8.js",
+    "runtime-main.js.map": "/react-geo-quiz/static/js/runtime-main.144310f8.js.map",
+    "static/js/2.b017ca32.chunk.js": "/react-geo-quiz/static/js/2.b017ca32.chunk.js",
+    "static/js/2.b017ca32.chunk.js.map": "/react-geo-quiz/static/js/2.b017ca32.chunk.js.map",
+    "index.html": "/react-geo-quiz/index.html",
+    "precache-manifest.d897215c6392d785c1d45a252c9f3358.js": "/react-geo-quiz/precache-manifest.d897215c6392d785c1d45a252c9f3358.js",
+    "service-worker.js": "/react-geo-quiz/service-worker.js",
+    "static/css/main.bdb9da3d.chunk.css.map": "/react-geo-quiz/static/css/main.bdb9da3d.chunk.css.map",
+    "static/js/2.b017ca32.chunk.js.LICENSE.txt": "/react-geo-quiz/static/js/2.b017ca32.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.144310f8.js",
+    "static/js/2.b017ca32.chunk.js",
+    "static/css/main.bdb9da3d.chunk.css",
+    "static/js/main.615ba8ec.chunk.js"
+  ]
+}
