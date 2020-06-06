@@ -5,4 +5,5 @@
 
 
 #### Copyrights
+- Design: https://dribbble.com/shots/6508352-Quiz-App-UI-Oma
 - Flags pack: https://www.flaticon.com/packs/countrys-flags
